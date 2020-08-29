@@ -122,6 +122,8 @@ python3 generate_string_session.py
 - **BLOCK_MEGA_LINKS**: (Optional field) If you want to remove mega.nz mirror support (bcoz it's too much buggy and unstable), set it to `True`.
 Note: You can limit maximum concurrent downloads by changing the value of MAX_CONCURRENT_DOWNLOADS in aria.sh. By default, it's set to 2
  
+ [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+ 
 ## Getting Google OAuth API credential file
 
 - Visit the [Google Cloud Console](https://console.developers.google.com/apis/credentials)
